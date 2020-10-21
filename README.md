@@ -6,6 +6,8 @@ It is a multi-class classification problem. It is a supervised learning problem 
 1. breed_category(Breed category of the pet)
 2. pet_category(Category of the pet target variable)
 
+For Further Reading : https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel
+
 ### DATASET
 
 |SNo. | Column Name | Description |
@@ -21,5 +23,11 @@ It is a multi-class classification problem. It is a supervised learning problem 
 |9	    | *breed_category* |	Breed category of the pet (**target variable**) |
 |10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
+### METHADOLOGY
+
+#### 1. *DATA PREPROCESSING:*
+  a). Imputing Values
+  b). Feature Extraction
+  c). 
 
 
