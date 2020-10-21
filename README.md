@@ -39,7 +39,6 @@ It is a multi-class classification problem. It is a supervised learning problem 
 	- BayesianSearch CV
 
 1. *Prediction and Evaluation Metric:*
-
 ![alt tag](https://user-images.githubusercontent.com/32522581/96785611-ad06d000-140c-11eb-94b4-f5d490fae88f.PNG)
-	
-1. *Result*	
+
+1. *Result:* 
