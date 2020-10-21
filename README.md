@@ -23,7 +23,7 @@ It is a multi-class classification problem. It is a supervised learning problem 
 |9	    | *breed_category* |	Breed category of the pet (**target variable**) |
 |10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
-### >METHADOLOGY
+>METHADOLOGY
 
 #### 1. *Exploratory Data Analysis:*
 
