@@ -43,5 +43,4 @@ It is a multi-class classification problem. It is a supervised learning problem 
 ![alt tag](https://user-images.githubusercontent.com/32522581/96785611-ad06d000-140c-11eb-94b4-f5d490fae88f.PNG)
 
 1. *Result:* 
-
 ![alt tag](https://user-images.githubusercontent.com/32522581/96786632-32d74b00-140e-11eb-9152-e4d10537c719.png)
