@@ -18,8 +18,8 @@ It is a multi-class classification problem. It is a supervised learning problem 
 |6	    | length(m)	     | Length of the pet (in meter) |
 |7	    | height(cm)	   | Height of the pet (in centimeter) |
 |8	    | X1,X2	         | Anonymous columns |
-|9	    | breed_category |	Breed category of the pet (**target variable**) |
-|10	    | pet_category	 | Category of the pet (**target variable**) |
+|9	    | *breed_category* |	Breed category of the pet (**target variable**) |
+|10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
 
 
