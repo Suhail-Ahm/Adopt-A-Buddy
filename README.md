@@ -23,7 +23,7 @@ It is a multi-class classification problem. It is a supervised learning problem 
 |9	    | *breed_category* |	Breed category of the pet (**target variable**) |
 |10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
->METHADOLOGY
+### METHADOLOGY
 
 #### 1. *Exploratory Data Analysis:*
 
@@ -39,5 +39,5 @@ It is a multi-class classification problem. It is a supervised learning problem 
 	- BayesianSearch CV
 
 #### 5. *Prediction and Evaluation Metric:*
-
+	https://user-images.githubusercontent.com/32522581/96785611-ad06d000-140c-11eb-94b4-f5d490fae88f.PNG
 	
