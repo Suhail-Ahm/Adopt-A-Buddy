@@ -27,16 +27,17 @@ It is a multi-class classification problem. It is a supervised learning problem 
 
 #### 1. *Exploratory Data Analysis:*
 
-#### 1. *Data Preprocessing:*
+#### 2. *Data Preprocessing:*
 	- Imputing Values
 	- Feature Extraction
 
-#### 1. *Algorithms Implemented:*
+#### 3. *Algorithms Implemented:*
 	- XGBoost
 	- CatBoost
 
-#### 1. *Hyperparameter tuning:*
+#### 4. *Hyperparameter tuning:*
 	- BayesianSearch CV
 
-#### 1. *Prediction and Evaluation Metric:*
+#### 5. *Prediction and Evaluation Metric:*
+
 	
