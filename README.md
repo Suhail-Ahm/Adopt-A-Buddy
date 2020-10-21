@@ -19,7 +19,7 @@ For Further Reading : https://www.hackerearth.com/challenges/competitive/hackere
 |5	    | color_type	   | Color of the pet |
 |6	    | length(m)	     | Length of the pet (in meter) |
 |7	    | height(cm)	   | Height of the pet (in centimeter) |
-|8	    | X1,X2	         | Anonymous columns |
+|8	    | X1, X2	         | Anonymous columns |
 |9	    | *breed_category* |	Breed category of the pet (**target variable**) |
 |10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
