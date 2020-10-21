@@ -31,6 +31,12 @@ For Further Reading : https://www.hackerearth.com/challenges/competitive/hackere
 	a). Imputing Values
 	b). Feature Extraction
 
-#### 3. Algorithms Implemented:
-	a). 
+#### 3. *Algorithms Implemented:*
+	a). XGBoost
+	b). CatBoost
 
+#### 4. *Hyperparameter tuning:*
+	a). BayesianSearch CV
+
+#### 5. Prediction and Evaluation Metric:*
+	![alt text]()
