@@ -25,9 +25,12 @@ For Further Reading : https://www.hackerearth.com/challenges/competitive/hackere
 
 ### METHADOLOGY
 
-#### 1. *DATA PREPROCESSING:*
-  a). Imputing Values
-  b). Feature Extraction
-  c). 
+#### 1. *Exploratory Data Analysis*
 
+#### 2. *Data Preprocessing:*
+	a). Imputing Values
+	b). Feature Extraction
+
+#### 3. Algorithms Implemented:
+	a). 
 
