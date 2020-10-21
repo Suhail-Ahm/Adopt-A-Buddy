@@ -23,20 +23,20 @@ It is a multi-class classification problem. It is a supervised learning problem 
 |9	    | *breed_category* |	Breed category of the pet (**target variable**) |
 |10	    | *pet_category*	 | Category of the pet (**target variable**) |
 
-### METHADOLOGY
+### > METHADOLOGY
 
-#### 1. *Exploratory Data Analysis*
+#### 1. *Exploratory Data Analysis:*
 
-#### 2. *Data Preprocessing:*
-	a). Imputing Values
-	b). Feature Extraction
+#### 1. *Data Preprocessing:*
+	- Imputing Values
+	- Feature Extraction
 
-#### 3. *Algorithms Implemented:*
-	a). XGBoost
-	b). CatBoost
+#### 1. *Algorithms Implemented:*
+	- XGBoost
+	- CatBoost
 
-#### 4. *Hyperparameter tuning:*
-	a). BayesianSearch CV
+#### 1. *Hyperparameter tuning:*
+	- BayesianSearch CV
 
-#### 5. Prediction and Evaluation Metric:*
+#### 1. *Prediction and Evaluation Metric:*
 	
