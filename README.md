@@ -25,20 +25,21 @@ It is a multi-class classification problem. It is a supervised learning problem 
 
 ### METHADOLOGY
 
-#### 1. *Exploratory Data Analysis:*
+1. *Exploratory Data Analysis:*
 
-#### 2. *Data Preprocessing:*
+1. *Data Preprocessing:*
 	- Imputing Values
 	- Feature Extraction
 
-#### 3. *Algorithms Implemented:*
+1. *Algorithms Implemented:*
 	- XGBoost
 	- CatBoost
 
-#### 4. *Hyperparameter tuning:*
+1. *Hyperparameter tuning:*
 	- BayesianSearch CV
 
-#### 5. *Prediction and Evaluation Metric:*
+1. *Prediction and Evaluation Metric:*
 
 ![alt tag](https://user-images.githubusercontent.com/32522581/96785611-ad06d000-140c-11eb-94b4-f5d490fae88f.PNG)
 	
+1. *Result*	
