@@ -6,7 +6,7 @@ It is a multi-class classification problem. It is a supervised learning problem 
 1. breed_category(Breed category of the pet)
 2. pet_category(Category of the pet target variable)
 
-For Further Reading : https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel
+[For Further Reading](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel)
 
 ### DATASET
 
@@ -39,4 +39,4 @@ For Further Reading : https://www.hackerearth.com/challenges/competitive/hackere
 	a). BayesianSearch CV
 
 #### 5. Prediction and Evaluation Metric:*
-	![alt text]()
+	
